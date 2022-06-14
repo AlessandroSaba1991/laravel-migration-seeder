@@ -10228,3 +10228,6 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.tours img {
+  aspect-ratio: 2/1;
+}
